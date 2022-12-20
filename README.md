@@ -1,4 +1,4 @@
 # lab7_2
-eto napisano na GitHub
+this text was written on GitHub
 /
 /
