@@ -1,4 +1,4 @@
-# laba7_2
+# lab7_2
 eto napisano na GitHub
 /
 /
